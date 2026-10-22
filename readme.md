@@ -39,7 +39,7 @@ Marks a specific task as completed.
 - Output: Changes the `completed` property of task 1 to `true` in `tasks.json`.
 
 **6. Delete a Task**
-Removes a task entirely[cite: 1].
+Removes a task entirely.
 
-- Example Input: `node index.js delete 1`[cite: 2]
-- Output: Removes task 1 from the array and saves the updated list to `tasks.json`[cite: 2].
+- Example Input: `node index.js delete 1`
+- Output: Removes task 1 from the array and saves the updated list to `tasks.json`.
